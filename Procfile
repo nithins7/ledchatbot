@@ -1,1 +1,1 @@
-worker: phython ledchatbot.py  
+worker: python ledchatbot.py  
